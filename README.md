@@ -30,7 +30,7 @@ Sou uma desenvolvedora frontend apaixonada por criar interfaces de usuário intu
 
 ## 📌 Currículo
 
-Quer saber mais? Confira meu currículo
+- Quer saber mais? Confira meu currículo!               
 Disponível em [karine-amorim.vercel.app](https://karine-amorim.vercel.app/)
 
 ## 📱 Contato
