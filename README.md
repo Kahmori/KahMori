@@ -29,14 +29,15 @@ Sou uma desenvolvedora frontend apaixonada por criar interfaces de usuário intu
 - Espanhol: Intermediário
 
 ## 📌 Currículo
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kahmori&repo=Curriculo&theme=default)
+
+Quer saber mais? Confira meu currículo
+Disponível em [karine-amorim.vercel.app](https://karine-amorim.vercel.app/)
 
 ## 📱 Contato
 - Email: karineamorim30@gmail.com
 - LinkedIn: [Karine Amorim](https://www.linkedin.com/in/karine-amorimbr/)
 - Instagram: [@codewithkarine](https://www.instagram.com/codewithkarine)
 - Telefone: +55 11 91615-6954
-- Website/Portfólio: [karine-amorim.vercel.app](https://karine-amorim.vercel.app/)
 
 ## 🔥 Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kahmori&theme=default)](https://git.io/streak-stats)
