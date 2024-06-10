@@ -29,7 +29,7 @@ Sou uma desenvolvedora frontend apaixonada por criar interfaces de usuário intu
 - Espanhol: Intermediário
 
 ## 📌 Currículo
-![Repo Card]([https://github-readme-stats.vercel.app/api/pin/?username=kahmori&repo=Curriculo&theme=default](https://github-readme-stats.vercel.app/api/pin/?username=kahmori&repo=Curriculo&theme=default)
+![Repo Card]([https://github-readme-stats.vercel.app/api/pin/?username=kahmori&repo=Curriculo&theme=default](https://github-readme-stats.vercel.app/api/pin/?username=kahmori&repo=Curriculo&theme=default))
 
 ## 📱 Contato
 - Email: karineamorim30@gmail.com
