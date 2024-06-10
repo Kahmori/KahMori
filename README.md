@@ -45,4 +45,5 @@ Sou uma desenvolvedora frontend apaixonada por criar interfaces de usuário intu
 
 Obrigada por visitar meu perfil!
 
-Se tiver alguma dúvida ou quiser bater um papo sobre desenvolvimento, estou sempre disponível. Vamos criar algo incrível juntos! 🚀
+Se tiver alguma dúvida ou quiser bater um papo sobre desenvolvimento, estou sempre disponível. 
+Vamos criar algo incrível juntos! 🚀
