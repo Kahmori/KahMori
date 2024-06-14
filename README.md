@@ -28,11 +28,6 @@ Sou uma desenvolvedora frontend apaixonada por criar interfaces de usuário intu
 - Francês: Intermediário
 - Espanhol: Intermediário
 
-## 📌 Currículo
-
-- Quer saber mais? Confira meu currículo!               
-Disponível em [karine-amorim.vercel.app](https://karine-amorim.vercel.app/)
-
 ## 📱 Contato
 - Email: karineamorim30@gmail.com
 - LinkedIn: [Karine Amorim](https://www.linkedin.com/in/karine-amorimbr/)
