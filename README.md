@@ -1,44 +1,50 @@
-# 👩🏽‍💻 Karine Amorim - Desenvolvedora Frontend
+# Karine Amorim - Full-Stack Developer
 
-## Sobre Mim
-Sou uma desenvolvedora frontend apaixonada por criar interfaces de usuário intuitivas e responsivas. Com vasta experiência em tecnologias modernas, estou sempre em busca de novos desafios e oportunidades para expandir minhas habilidades e contribuir com projetos inovadores.
+## About Me
+I'm a versatile full-stack developer with a passion for building scalable, efficient, and user-friendly applications. With a strong foundation in both front-end and back-end development, I excel at bridging the gap between design and functionality. I'm always looking to expand my skill set and take on new challenges, and I'm excited to collaborate with others to bring innovative ideas to life.
 
-## 🌐 Linguagens Mais Usadas
+## 🌐 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahmori&layout=compact&theme=default)
 
-## 🚀 Habilidades
+## 🚀 Skills
 
-### Linguagens e Tecnologias:
+### Programming Languages:
 - HTML5, CSS3, JavaScript
+- C#, Java,.NET, VB
+
+### Frontend Frameworks:
 - React, Angular
 - SASS, StyledComponents
-- C#, Java, .net, vb
 
-### Ferramentas de Desenvolvimento:
+### Backend Technologies:
+- Node.js, Express.js
+- RESTful APIs
+
+### Databases:
+- Relational databases
+- NoSQL databases
+
+### Development Tools:
 - Visual Studio Code
 - Git, GitLab, Bitbucket
 
-### Metodologias:
-- Desenvolvimento Ágil (Scrum)
+### Methodologies:
+- Agile Development (Scrum)
 - Design Thinking
 
-## 🌍 Idiomas
-- Português: Nativo
-- Inglês: Avançado
-- Francês: Intermediário
-- Espanhol: Intermediário
+## 🌍 Languages
+- Portuguese: Native
+- English: Advanced
+- French: Intermediate
+- Spanish: Intermediate
 
-## 📱 Contato
+## 📱 Contact
 - Email: karineamorim30@gmail.com
 - LinkedIn: [Karine Amorim](https://www.linkedin.com/in/karine-amorimbr/)
 - Instagram: [@codewithkarine](https://www.instagram.com/codewithkarine)
 
-## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kahmori&theme=default)](https://git.io/streak-stats)
-
 ---
 
-Obrigada por visitar meu perfil!
+Thanks for visiting my profile!
 
-Se tiver alguma dúvida ou quiser bater um papo sobre desenvolvimento, estou sempre disponível. 
-Vamos criar algo incrível juntos! 🚀
+If you have any questions or want to chat about development, I'm always available. Let's create something amazing together! 🚀
