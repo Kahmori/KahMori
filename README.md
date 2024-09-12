@@ -39,7 +39,6 @@ I'm a versatile full-stack developer with a passion for building scalable, effic
 - Spanish: Intermediate
 
 ## 📱 Contact
-- Email: karineamorim30@gmail.com
 - LinkedIn: [Karine Amorim](https://www.linkedin.com/in/karine-amorimbr/)
 - Instagram: [@codewithkarine](https://www.instagram.com/codewithkarine)
 
